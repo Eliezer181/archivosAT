@@ -102,9 +102,9 @@ elif [ "$choice" == "9" ]; then
 
   elif [ "$choice" == "6" ]; then
   echo "Opcion 6 seleccionada: Ayuda"
-  echo "1- Buscar carpetas vacías o no vacías en subdirectorios: Muestra todas las carpetas incluyendo las vacías y no vacías en el directorio home y sus subdirectorios, las ca>
+  echo "1- Muestra todas las carpetas incluyendo las vacías y no vacías en el directorio home y sus subdirectorios."
   echo "2- Buscar archivos: Muestra todos los archivos en el directorio home y sus subdirectorios."
-  echo "3- Crear una copia de seguridad de las carpetas o archivos encontrados: Crea una copia de seguridad de todos los archivos y carpetas en el directorio home y sus subdire>
+  echo "3- Crea una copia de seguridad de todos los archivos y carpetas en el directorio home"
   echo "4- Ver carpetas de home: Muestra todas las carpetas en el directorio home, las carpetas vacías aparecerán en rojo y las no vacías en amarillo."
   echo "5- Ver tamaño de cada archivo: Muestra el tamaño de cada archivo en el directorio home y sus subdirectorios."
   echo "6- Ayuda: Muestra esta descripcion de las opciones del script."
